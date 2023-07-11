@@ -28,10 +28,12 @@
     padding-top: 30px;
     align-items: center;
 }
-.nav-img{
+
+.nav-img {
     width: auto;
     height: 800px;
 }
+
 .nav-heading {
     font-size: 80px;
     font-weight: 900;
@@ -165,14 +167,26 @@
 .buy-title {
     color: #272727;
     text-align: center;
-    font-size: 40px;
     padding-bottom: 50px;
+}
+
+.social-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.buy-description {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    padding-top: 10px;
 }
 
 .buy-img {
     width: 342px;
     height: 396px;
-
 }
 
 /* hover part*/
@@ -208,11 +222,6 @@
     padding: 20px;
     align-items: center;
     padding-bottom: 50px;
-}
-
-.buy-description {
-    font-size: 29px;
-    padding-top: 10px;
 }
 
 .buy-container {
